@@ -8,12 +8,6 @@ ja ne liikkuvat yksilöllisiä maaleja kohti. Kun autot pääsevät maaliin, saa
 
 Autot väistävät toisia autoja sekä esteitä.
 
-## Tiedosto- ja kansiorakenne
-
-Kansiosta Software löytyy ohjelman koodit.
-
-Kansiosta Dokumentaatio löytyy ohjelman dokumentaatio.
-
 ## Asennusohje
 
 Tarvittavat kirjastot: PyQt5, (unittest, math, random)
