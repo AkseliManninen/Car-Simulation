@@ -1,4 +1,4 @@
-Akseli Manninen / 665306 / Liikennesimulaatio
+Akseli Manninen / Liikennesimulaatio
 
 
 ## Esittely
